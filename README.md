@@ -11,7 +11,7 @@ Dataset - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/
 
 Predicts the alphabet by processing American Sign Language.
 <br>
-Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet/
 
 ## Brain Tumor MRI Classification
 
