@@ -4,7 +4,7 @@ Contribute ideas, or whatever you are learning. One of these will be final.
 
 ## Covid - 19
 
-Predicts if the infection is covid or pneumonia or none.
+Predicts if the infection is covid or pneumonia or none.\n
 Dataset - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/code
 
 ## ASL Alphabet
