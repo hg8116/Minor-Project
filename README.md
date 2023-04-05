@@ -4,8 +4,13 @@ Contribute ideas, or whatever you are learning. One of these will be final.
 
 ## Covid - 19
 
-Implements basic classification model using TensorFlow and Keras. Shows confusion matrix and important metrics.
+Predicts if the infection is covid or pneumonia or none.
 Dataset - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/code
+
+## ASL Alphabet
+
+Predicts the alphabet by processing American Sign Language.
+Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ### Setting up & Using -
 
