@@ -13,6 +13,12 @@ Predicts the alphabet by processing American Sign Language.
 <br>
 Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
+## Brain Tumor MRI Classification
+
+Predicts where the tumor exists or not.
+<br>
+Dataset - https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/code
+
 ### Setting up & Using -
 
 - Clone the repository.
