@@ -7,11 +7,17 @@ Contribute ideas, or whatever you are learning. One of these will be final.
 Predicts if the infection is covid or pneumonia or none.<br>
 Dataset - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset/
 
-## ASL Alphabet
+## ASL Alphabet Detection
 
 Predicts the alphabet by processing American Sign Language.
 <br>
 Dataset - https://www.kaggle.com/datasets/grassknoted/asl-alphabet/
+
+## ISL Alphabet Detection
+
+Predicts the alphabet by processing American Sign Language.
+<br>
+Dataset - https://drive.google.com/drive/folders/18o8eNnMfVyaUpdQeeVDFQWhPGqwsicNR?usp=share_link
 
 ## Brain Tumor MRI Classification
 
